@@ -1,1 +1,1 @@
-This is my web-analytics repo, this readme will be updated when necessary
+this website can be accessed at https://elfransat.github.io/
